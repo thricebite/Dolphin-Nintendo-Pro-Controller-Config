@@ -13,6 +13,6 @@ Wii:
 - Super Mario Galaxy
 
 ### File Directory
-Add these *.ini* files to its corresponding location in the files
-MacOS: `/Users/<user>/Library/Application Support/Dolphin/Config/Profiles`
-Windows: `C:\Users\<user>\AppData\Roaming\Dolphin Emulator\Config\Profiles\`
+Add these *.ini* files to its corresponding location in the files \
+MacOS: `/Users/<user>/Library/Application Support/Dolphin/Config/Profiles` \
+Windows: `C:\Users\<user>\AppData\Roaming\Dolphin Emulator\Config\Profiles\` 
