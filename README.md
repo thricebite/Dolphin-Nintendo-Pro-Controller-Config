@@ -12,7 +12,10 @@ Wii:
 - New Super Mario Bros. Wii
 - Super Mario Galaxy
 
-### File Directory
+### Apply these Controller Configs
+
 Add these *.ini* files to its corresponding location in the files \
 MacOS: `/Users/<user>/Library/Application Support/Dolphin/Config/Profiles` \
-Windows: `C:\Users\<user>\AppData\Roaming\Dolphin Emulator\Config\Profiles\` 
+Windows: `C:\Users\<user>\AppData\Roaming\Dolphin Emulator\Config\Profiles\`
+
+Once you placed the *.ini* files, you can load the profiles in Dolphin's controller settings
